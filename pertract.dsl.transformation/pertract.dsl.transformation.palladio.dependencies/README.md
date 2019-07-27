@@ -1,0 +1,1 @@
+# Installs non-Maven projects in local Maven repository
